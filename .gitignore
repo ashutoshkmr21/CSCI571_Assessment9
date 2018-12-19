@@ -1,0 +1,10 @@
+Ashutosh/*.iml
+Ashutosh/.gradle
+Ashutosh/local.properties
+Ashutosh/.idea/libraries
+Ashutosh/.idea/modules.xml
+Ashutosh/.idea/workspace.xml
+Ashutosh/.DS_Store
+Ashutosh/build
+Ashutosh/captures
+Ashutosh/.externalNativeBuild

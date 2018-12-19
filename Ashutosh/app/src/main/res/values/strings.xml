@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Event Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="favourite">Favourite</string>
+    <string name="category">Category</string>
+    <string name="city_name">City Name</string>
+    <string name="distance">Distance</string>
+    <string name="from">From</string>
+    <string name="current_location">Current Location</string>
+    <string name="other_location">Other, Specify Location</string>
+    <item name="favourite" type="id">Favourite</item>
+    <string-array name="category_types">
+        <item>ALL</item>
+        <item>Type1</item>
+        <item>Type2</item>
+        <item>Type3</item>
+        <item>Type4</item>
+        <item>Type5</item>
+    </string-array>
+    <string-array name="unit_types">
+        <item>Miles</item>
+        <item>Km</item>
+    </string-array>
+    <string name="unit_prompt">Miles</string>
+    <string name="location_hint">Type in the location</string>
+    <string name="clear">Clear</string>
+</resources>
